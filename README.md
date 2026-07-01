@@ -6,7 +6,7 @@ A Machine Learning-based web application that predicts the quality of wine based
 
 ## Internship Project Details
 
-- **Intern ID:** CITS
+- **Intern ID:** CITS1359
 - **Name:** Jayant Kumar Sharma 
 - **Project Name:** Wine Quality Prediction
 - **Project Duration:** 6 Weeks
